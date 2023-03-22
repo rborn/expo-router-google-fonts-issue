@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "expo-router-google-fonts-issue",
+    "slug": "expo-router-google-fonts-issue"
+  }
+}
